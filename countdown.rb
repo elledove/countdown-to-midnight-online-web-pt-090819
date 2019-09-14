@@ -7,4 +7,4 @@ def countdown
    number -= 1
   end
 end
-#return "HAPPY NEW YEAR!"
+return "HAPPY NEW YEAR!"
